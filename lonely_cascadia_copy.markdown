@@ -18,7 +18,8 @@ I identify as an extrovert. Which means, I recharge my batteries, most of the ti
 As an extrovert, working in an office environment can be wonderfully fulfilling and empowering. With good social chemistry amongst coworkers, I can stay motivated and motivating, engaged and engaging perpetually. But that's not what this talk is about.
 
 This talk is about how I survived--and eventually thrived--while working alone.
-￼
+
+
 # I was a weird kid.
 I suffered a speed impediment as a child. I stuttered to an extent that speech therapy was a part of my life, in varying prevalence, from age 6 to 18. There, I leaned to think about what I'm saying. That is, I learned to identify hazards and holes in the word-road ahead, and use a set of skills to maneuver around them. I think this special attention to words and speaking net me many benefits, the most important of which is the ability to do what I'm doing just this moment: speak and be understood.
 
@@ -27,7 +28,8 @@ A lifetime of thinking about how I use words blossomed into an academic and prof
 These days, I bill myself as an _interaction engineer_. I care, very deeply, about how people communicate with each other, through systems. Most often, those systems are web applications, because that pays the bills. Not always, though. Like I said, I built point of sales machines, and, this one time, an interaction engineering effort involved a literal hack; taking four inches of the base of a podium with a hacksaw to create the illusion that a congressman was taller than he actually was. I'm a weird mix of writing and editing, programming and desigining, social science and computer science.
 
 I also dream of someday being a copy editor or a speech writer.
-￼
+
+
 # A few assumptions.
 A small disclaimer: I can tell you about what worked for me, in my situations. I've done this full-time, remote-across-timezones-and-continents three times over ten years. So that's what I'm going to talk about. I'm not qualified to tell you what will work for you in yours. I'm happy to talk with you about it, and help you figure out what'll work, though, so hit me up. Here's the situation Imma talk about. . .
 
@@ -51,30 +53,35 @@ Being in an office, we use all manner of communication. There's words, written a
 Being remote, I lose most all of these. We've all experienced this to some degree. Without verbal tone and pacing, conveying sarcasm or irony in a tweet is damn near impossible. The manner in which you alter the delivery of a message is as intentional and crucial as the message itself, even if it happens, seemingly, semi- or un-consciously.
 
 Successful remote working requires active communication. That means willful, careful consideration of how you communicate in addition to what you communicate. As a remote worker, I have very limited communication channels available. My effectiveness, and productivity, and, ultimately, happiness at work is tied to how well I can leverage those channels to get messages from my brain to yours.
-￼￼￼￼
+
+￼￼
 # Advice #1: Grow a Voice.
 Voices are grown, like gardens and muscles. It takes hard work and a little luck and a lot of trial and error. And once you start paying attention to your Voice, you begin to see the gardens others’ are growing.
 
 I want to tell you about working with this guy named Chris. I’ve known him for a couple of years now. We work really well together and we ship features like WHAT. We call him Seejee, because it’s a really clever and memorable nickname. I want to tell you a little about working with Seejee because he’s really helped me find and cultivate my Voice.
-￼￼
-# Seejee calls ‘em like he sees ‘em.
+
+
+## Seejee calls ‘em like he sees ‘em.
 Seejee gets right to the heart of matters. He’s a self-described introvert, but somehow hasn’t tired of me. He’s really good at his job and at being a friend.
 
 When I worked in the office, I would know when Seejee was frustrated. He clipped his words more, a rattling cadence that was a stark contrast to his normally wide (and very Southern) flow. Most times, he wasn't frustrated with me, a fact confirmed by his body language and facial expressions. He'd lean back in his chair, wave a hand at the screen in front of him and say (in my general direction), "how the hell did this ever work?" The way he turned his body to face me, coupled with his slight smile and brow furrow told me that he was commiserating, not accusing.
-￼￼
-# My Voice:
+
+
+## My Voice:
 How would this exchange work in a chatroom? How do I (or Seejee) commiserate instead of accuse? I don't have tone, cadence, facial expression, or body language to help me out. What I do have are. . .
+
 * memes, emoticons, emoji, hyperbole, over-sharing, and poor spelling.
 
 With these tools, I've constructed my Voice.
-￼￼￼￼￼￼￼
-# “I just totally read that in your voice.” –Seejee, May-ish 2014.
+
+￼￼￼￼￼
+## “I just totally read that in your voice.” –Seejee, May-ish 2014.
 They teach you in Business English to write like you talk and teach you in Creative Writing to never write like you talk--even dialogue should be your character's voice, not your own. Chatting with coworkers is in the middle; I’m working and I’m socializing. I’m explaining and I’m storytelling. I’m professional and casual. It’s a blend of fact and fiction and I gotta keep it in balance.
 
 In my experience, coworkers associate long periods of radio silence in mostly negative ways: frustration, disengagement, confusion. So I err on the side of over- and hyper- communication. At times, I kinda feel like a caricature of myself, but the Voice is there and the result is that I'm more real, more relevant to the people on the other end of the wire.
 
 
-# Grow a Voice that’s:
+## Grow a Voice that’s:
 Imma do that thing where I read exactly what’s on the slide. You know, that thing the pros say you should never do. This is important, though, myabe even worth writing down. Cultivate your Voice so that it is. . .
 
 * memorable without being hard to decipher,
@@ -94,17 +101,18 @@ That's the division. I can be productive at work and not be happy with life. I c
 When I get out of balance, I sap my Life battery to keep my work effort powered. That's my "crunch time," and the cost is a marked decline in my happiness, and the happiness of those around me. Likewise, if I don't make the effort to keep my Life battery charged, I get restless at work, leading to low engagement and high distraction. I'll seesaw between these states until I find a way to get back in balance.
 ￼￼
 ￼
-# Balance.
+## Balance.
 My strategy to balance is rooted in my extraversion. As I said earlier, a person’s approach to battery management is a good metric for gauging their placement on the ambiversion scale.
 
 Anyway, here's my sure-fire strategy to keeping my Life battery in good order. You might want to write this down: I go do stuff where I might maybe talk to people.
 
-## Engage in non-work activities with an optional social component.
+
+### Engage in non-work activities with an optional social component.
 The optional social component lets me choose what I need. I can recharge or discharge at will. The key is an environment where I can absorb the scene or actively participate with others. The gym is awesome for this. If I'm overflowing and restless, it's trashy street punk and weightlifting until my arms literally fall off. If I'm low and need a boost, I can use the shared focus and activities to start conversations. Concerts are great for this, too, as are community events like farmers' markets and street fairs. That sounds counterintuitive on the surface, but my extroversion manifests such that I’m perceived as never tiring of social interaction, conversations with friends and strangers, and the like, buthat's not true. And being alone in a crowd is a fantastic way for me to recharge that battery. Shared energy, shared focus.
 
 Managing my Work battery is more challenging. It’s all about utilizing my not-work brain to do work-brain things, but in a specific context.
 
-## Engage in professional efforts  with a mandatory social component.
+### Engage in professional efforts  with a mandatory social component.
 The mandatory social component is the key. It's the difference between a meetup and a hack night. It's too easy to go heads-down if there's not emphasis on a social component. And that heads-down time, as amazing as it feels, is 100% out of my work battery. I need conversation and connection to recharge.
 
 A good conversation at a meetup will carry me for a week at work. Two hours hacking quietly in the corner on an open source project will kill my desire to go to work the next morning. It's a conundrum.
@@ -114,19 +122,19 @@ That mandatory social interaction keeps me lively. Moreso, surrounding myself wi
 So if you've got an important message to convey in a limited medium, be sure to leverage every advantage.
 
 ￼
-  # Advice #3: Use the best tools & practices you find.
-  I'm going to be pretty brief here. This is a trial and error process, but you don't have to figure it out alone. Look around, talk to people who also work remote, and ask them what they've tried.
+# Advice #3: Use the best tools & practices you find.
+I'm going to be pretty brief here. This is a trial and error process, but you don't have to figure it out alone. Look around, talk to people who also work remote, and ask them what they've tried.
 
-  Here's three strategies that've worked for me:
+Here's three strategies that've worked for me:
 
-## Screen Hero
+## Screenhero
 I love to pair program. It lets me be chatty and productive at the same time. It helps me cement my understanding of unfamilir concepts. It's another tool in maintaining my relationships with my coworkers. And it's damn fun.
 
-We facilitate near all pairing sessions with Screen Hero. They just came out of beta, and are totally worth your dollars if you're a fan of software that works more often than doesn't.
+We facilitate near all pairing sessions with Screenhero. They just came out of beta, and are totally worth your dollars if you're a fan of software that works more often than doesn't.
 
 
 ## Go To Meeting || Google Hangouts
-These things are equally terrible, but in different ways. I like being part of the conversation, and these are the tools that let me do it. In a pinch, they can serve as a bridge for pairing, but Screen Hero is way better. If text communication isn't cutting it, have a easy way 1to jump into a voice conversation. Do it enough that it feels normal to jump into a video call with anyone. Seriously, take time to practice transitioning a conversation from a text based format to a video call.
+These things are equally terrible, but in different ways. I like being part of the conversation, and these are the tools that let me do it. In a pinch, they can serve as a bridge for pairing, but Screenhero is way better. If text communication isn't cutting it, have a easy way 1to jump into a voice conversation. Do it enough that it feels normal to jump into a video call with anyone. Seriously, take time to practice transitioning a conversation from a text based format to a video call.
 
 
 ## Everybody's remote!
@@ -138,7 +146,7 @@ Look, as an all-day-every-day remote worker, my environment is just different. I
 These days, standup happens at a more reasonable time for me. My team appreciates that I’m more coherent and prepared, and I appreciate having a workday that doesn’t start quite so early.
 
 ￼￼￼
-# The Positives: Tomatoes, Time, & Coffee
+## The Positives: Tomatoes, Time, & Coffee
 I still start early. My workday starts at 7am. My friends think I’m crazy, but I love it. This thing that started as a detriment—-timezone differences—-has become a wonderful positive. It took a few months for me to adjust, but, now, I start at 7 and wrap around 3.
 
 And when I say wrap, I don’t mean just work-work. Typically, by 3pm, I’ve wrapped my not-work work too. How many of yinz follow the Pomodoro Technique? I’m not super strict with it, but the general idea is that for every hour you work, use five to ten minutes to rest, reset, and deal with distractions. At the office, maybe that means checking Facebook or getting another godawful cup of coffee.
@@ -154,18 +162,19 @@ Finally, my coffee is better than what’s in your office. I mean, almost certai
 So, at 3pm (maybe 4, if I'm dragging), my work-work is done and I feel good about it. My home is clean, the chores done, I've been to the gym, and I'm ready for my day to begin. It's such a shift from my other experiences; for too long, I lived in a way that, minus dinner and some boring tv, my day was pretty much over when I left work.
 
 Anyway, the coffee and gym and spending my day with my really cute dog are just examples of what working at home lets me do that’d be harder in a shared office. Some things are a lot easier in a shared office, though.
-￼
-# The Negatives: Gossip, Inside Jokes, & Hugs
+
+
+## The Negatives: Gossip, Inside Jokes, & Hugs
 It’s not all sunshine and unicorns. There are definitely some things I miss about working shoulder-to-shoulder with others. The slide here makes light of it, but the atomic components of a team culture are comprised of shared experiences and peer validation. Gossip, jokes, and hugs. When you spend time with people—you know, like half your waking hours five days a week—they become significant in your life, and you in theirs. There’s a camaraderie there, a relevance that factors into all manner of decisions and actions. Without physically being present, it’s very easy for me to lose that relevance, and, with it, the consideration of my peers.
 
 I didn’t know how to address this for a long time, until I met Carol.
 
 
-# Yinz should meet Carol.
+### Yinz should meet Carol.
 Carol’s known as the Hammer of Justice on our team. If that sounds intimidating, you’re half right. But hammers build houses as readily as they knock them down, and Carol’s a fantastic architect of both software and teams. I explained my growing ill-ease and feelings of irrelevance one afternoon. The next morning, she sent a calendar invite for a new event called “the whiskey hangout.”
 ￼￼
 ￼￼￼
-# The Whiskey Hangout: It’s every bit as great as it sounds.
+### The Whiskey Hangout: It’s every bit as great as it sounds.
 Carol and I both enjoy craft whiskey. In fact, the first team-bonding event I organized at Think Through Math was a tour and tasting at a lovely craft distillery in Pittsburgh. Anyway, her idea was to re-create the ‘water cooler’ experience, except, you know, with whiskey and we’re fifteen hundred miles apart. Twice a month, she’d work from home and, after the work day was over, we’d chat, via Google Hangout, and enjoy a whiskey drink.
 
 She fills me in with what’s happening in the office and city, and I tell her about my life in Seattle. We cancel when we have to, but, about six months in, we’re still going strong. It provides the context I need to understand what’s happening elsewhere in the business, lets me reconnect with a good friend, and I get to drink whiskey at three in the afternoon. Yay timezones! Pretty sure I’m the first person to say that, ever.
@@ -188,4 +197,3 @@ All of which are under the umbrella of engaging in active communication. Be inte
 ￼
 # Fin.
 That's it! I really hope this helps you get your feet wet with remote work. I'm around, here and online, if you wanna talk about it more. Thank you so much, everyone, for this opportunity to share. <3
-￼￼
